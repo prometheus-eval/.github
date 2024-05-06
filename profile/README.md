@@ -2,7 +2,7 @@ We train language models specialized in evaluating other language models and opt
 
 ## Repositories
 
-Below are our key projects, complete with links to their repositories and related publications:
+Below are our key projects, with links to their repositories and related publications:
 
 | Repository         | Description | Paper |
 |--------------------|-------------|-------|
